@@ -1,0 +1,30 @@
+h1.Boss {
+  background-color: rgb(255, 254, 254);
+  font-style: italic;
+  font-weight: 700px;
+  font-size: 100px;
+}
+.Brownies {
+  text-align: left;
+  width: 350px;
+  height: 300px;
+  border: 10px solid;
+}  
+h1.titulos {
+  font-style: italic;
+  font-size: 50px;
+  text-decoration: underline;
+  
+}
+p.Cuerpo {
+  padding: 15px;
+  font-style: italic;
+  font-size: 20px;
+  position: static;
+
+}
+h2.subtitulos {
+ font-size: 35px;
+ font-style:italic ;
+ text-decoration: underline;
+}
