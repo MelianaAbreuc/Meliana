@@ -8,7 +8,7 @@ h1.Boss {
   text-align: left;
   width: 340px;
   height: 300px;
-  border: 10px solid;
+  border: 10px solid; 
 }  
 h1.titulos {
   font-style: italic;
