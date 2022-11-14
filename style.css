@@ -1,52 +1,44 @@
+.logo {
+  width: 18%; 
+}
 h1.Boss {
   background-color: rgb(255, 254, 254);
   font-style: italic;
   font-weight: 700px;
   font-size: 100px;
+  
 }
 .Brownies {
   text-align: left;
   width: 340px;
   height: 300px;
-  border: 10px solid; 
+  border: 10px solid;
 }  
 h1.titulos {
   font-style: italic;
   font-size: 50px;
-  text-decoration: underline;
+  text-decoration: rgb(255, 0, 217) underline;
   
 }
 p.Cuerpo {
 font-size: 20px;
 font-style: italic;
-}
-
-p.Cuerpo2 {
-  font-size: 20px;
-  font-style: italic;
-  padding-right: 550px;
-
-}
-p.Cuerpo3 {
-  font-size: 20px;
-  width:500px ;
-  font-style: italic;
-  padding-left: 550px;
-
+display: block;
+margin-bottom: 10px;
+list-style-type:none;
 }
 
 h2.subtitulos {
   font-size: 40px;
   font-style: italic;
-  padding-right: 550px;
-  text-decoration: underline;
+  text-decoration: rgba(169, 43, 43, 0.833) underline;
 }
 
 h3.Elaboracion{
   font-size: 40px;
   font-style: italic;
-  padding-left:550px ;
-  text-decoration: underline;
+  text-decoration: blue underline;
+
 }
 
 .Posicion {
@@ -55,11 +47,3 @@ h3.Elaboracion{
   height: 300px;
   
 }
-
-#container {
-  width: 500px;
-  margin: auto;
-  border: 22px solid rgb(0, 0, 0);
-
-}
-  
